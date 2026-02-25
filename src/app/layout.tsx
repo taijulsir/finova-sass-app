@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SaaS Owner Dashboard",
+  title: "Finova Workspace",
   description: "Manage your organization, CRM, and finances in one place",
 };
 
